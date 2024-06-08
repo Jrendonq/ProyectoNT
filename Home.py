@@ -39,5 +39,7 @@ st.write("**Miembros del equipo:**")
 st.write("- Luis Ernesto Espinel.")
 st.write("- Francisco Jose David Benitez.")
 st.write("- Jefferson Rendon Quiceno.")
+st.write("- Alvaro Martinez.")
+st.write("- Brayan Gomez.")
 
 
