@@ -36,8 +36,8 @@ st.write("**Visite nuestro sitio web:** [Enlace al sitio web del proyecto](https
 # Footer with team members and project information
 st.subheader("Equipo y Contacto")
 st.write("**Miembros del equipo:**")
-st.write("- Nombre 1: Coordinador del Proyecto.")
-st.write("- Nombre 2: Desarrollador Principal.")
-st.write("- Nombre 3: Soporte Técnico.")
-st.write("**Información de contacto:**")
+st.write("- Luis Ernesto Espinel.")
+st.write("- Francisco Jose David Benitez.")
+st.write("- Jefferson Rendon Quiceno.")
+
 
